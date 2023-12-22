@@ -127,13 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="choices.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="multisortfile.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="choices.txt" />
     <Text Include="file.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="choices.h" />
     <ClInclude Include="multisortfile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

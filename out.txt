@@ -1,5 +1,11 @@
+#strings
 #numbers
 123
 457
 789
 800
+hello
+lac
+mother
+om
+zed

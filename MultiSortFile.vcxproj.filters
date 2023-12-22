@@ -21,14 +21,21 @@
     <ClCompile Include="multisortfile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="choices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="file.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="choices.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="multisortfile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="choices.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

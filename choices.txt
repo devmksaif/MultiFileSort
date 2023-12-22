@@ -1,0 +1,3 @@
+Sort Numbers Inside File Only
+Sort Strings Inside File Only
+Sort Both
