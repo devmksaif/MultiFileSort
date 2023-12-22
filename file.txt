@@ -1,0 +1,11 @@
+#strings
+hello
+mother
+zed
+om
+lac
+#numbers
+789
+800
+457
+123
